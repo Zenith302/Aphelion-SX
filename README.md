@@ -1,2 +1,2 @@
-# Aphelion-SX
-8-bit fantasy computer for the modern world
+# Aphelion SX
+The Aphelion SX is an 8-bit fantasy microcomputer inspired by the Atari XL home computer series :3

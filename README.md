@@ -1,8 +1,8 @@
 # Aphelion SX
 
-The Aphelion SX is an 8-bit fantasy microcomputer running a 4MHz 65C02, inspired mainly by the Atari XL home computer series but as well as other 8-bit home computers of the 80's :3
+Aphelion SX is a line of 8-bit fantasy microcomputers built around a 4MHz 65C02, inspired mainly by the Atari XL home computer series but as well as other 8-bit home computers of the 80's. It is owned by my fictional company Aphelion, which exists in an alternate universe my friends and I have been writing.
 
-A big personal goal for this is to create my own computer based off what I feel like Atari could have (and definitely should have) done to make a proper successor to the original 800/400.
+A big personal goal for this is to create my own computer based off what I feel like Atari could have (and definitely should have) done to make a proper successor to the original 800/400 by continuing to push the boundaries of computing.
 
 This project is also because I want some kind of tangible(-ish) real world thing I can have associated with my fictional company Aphelion Entertainment from the alternate universe stuff my friends and I have been writing. The Aphelion SX is what came up when we thought of the question: "What if we made the XL computers but cooler?" And it's a fun way to learn fantasy computer shit so yay!!!!
 

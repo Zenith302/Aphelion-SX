@@ -6,7 +6,7 @@ The SX series includes the SX1200, SX800, and SX600, which have differing price 
 
 A big personal goal for this is to create my own computer based off what I feel like Atari could have (and definitely should have) done to make a proper successor to the original 800/400 by continuing to push the boundaries of computing.
 
-This project is also because I want some kind of tangible(-ish) real world thing I can have associated with my fictional company Aphelion Entertainment from the alternate universe stuff my friends and I have been writing. The Aphelion SX is what came up when we thought of the question: "What if we made the XL computers but cooler?" And it's a fun way to learn fantasy computer shit so yay!!!!
+This project is also because I want some kind of tangible(-ish) real world thing I can have associated with my fictional company Aphelion from the alternate universe stuff my friends and I have been writing. The Aphelion SX is what came up when we thought of the question: "What if we made the XL computers but cooler?" And it's a fun way to learn fantasy computer shit so yay!!!!
 
 This isn't directly compatible with any Atari 8-bit computers because everything is our own custom silly shit, but anything should be portable.
 

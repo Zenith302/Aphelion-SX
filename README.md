@@ -10,7 +10,7 @@ This project is also because I want some kind of tangible(-ish) real world thing
 
 This isn't directly compatible with any Atari 8-bit computers because everything is our own custom silly shit, but anything should be portable.
 
-Oh yeah also because the design choices of the Commander X16 confuse and somewhat terrify me
+Oh yeah this is also because the design choices of the Commander X16 confuse and somewhat terrify me. I respect the project and the dedication, and it's inspired me to make my own fantasy 8-bit machine but without all the scope creep and over the op additions :3
 
 
 # Disclaimers

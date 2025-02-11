@@ -1,6 +1,6 @@
 # Aphelion SX
 
-Aphelion SX is a line of 8-bit fantasy microcomputers built around our own 4MHz 65C02-based processor, the 65V02 "Sophie." Inspired mainly by the Atari XL home computer series but as well as other 8-bit home computers of the 80's, it is owned by my fictional company Aphelion, which exists in an alternate universe my friends and I have been writing. Canonically the SX series was released in 1983 at a slightly higher price tag than competitors but offering much, much more.
+Aphelion SX is a line of 8-bit fantasy microcomputers built around our own 4MHz 65C02-based processor, the 65V02 "Sophie." Inspired mainly by the Atari XL home computer series but as well as other 8-bit home computers of the 80's, it is owned by my fictional company Aphelion, which exists in an alternate universe my friends and I have been writing. Canonically the SX series was released in 1983 at a higher price tag than competitors but offering much, much more.
 
 The SX series includes the SX1200 and SX800, which have differing price points and built in features but can become equal to the SX1200 in specs through expansions and peripherals.
 
